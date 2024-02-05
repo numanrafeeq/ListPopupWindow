@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ListPopUpWindow</string>
+
+
+    <string name="show_popup">Show Popup</string>
+    <string name="listpopupwindow_example">List Popup Window Example</string>
+</resources>
